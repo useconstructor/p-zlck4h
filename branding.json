@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#211A17",
+  "secondaryColor": "#F4EBDD",
+  "backgroundColor": "#211A17",
+  "textColor": "#2F2925",
+  "accentColor": "#B86B3D",
+  "fontHeading": "Fraunces",
+  "fontBody": "Manrope",
+  "borderRadius": "0.25rem",
+  "logoText": "Ember & Bean",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-ZLCK4H/logo.png",
+  "tone": "premium"
+}
